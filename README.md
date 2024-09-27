@@ -45,7 +45,7 @@
             background-color: #f4f4f4;
         }
         a {
-            color: #d82828;
+            color: #28a745;
             text-decoration: none;
         }
     </style>
